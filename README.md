@@ -1,6 +1,9 @@
-# μvg
+<a href="http://travis-ci.org/polyswf/uvg">
+  <img src="https://travis-ci.org/polyswf/uvg.png?branch=master"
+       alt="Build Status" title="Build Status" align="right" />
+</a>
 
-[![Build Status](https://travis-ci.org/polyswf/uvg.png?branch=master)](http://travis-ci.org/polyswf/uvg)
+# μvg
 
 An embeddable hardware accelerated vector graphics library.
 
