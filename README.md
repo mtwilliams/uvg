@@ -16,35 +16,38 @@ An embeddable hardware accelerated vector graphics library.
 | BSD       | GCC or Clang            |        Planned        |
 | Android   | GCC or Clang            |        Planned        |
 | iOS       | GCC or Clang            |        Planned        |
-| Web       | Native Client (PNaCl)   |        Planned        |
+| Web       | Native Client           |        Planned        |
 | Web       | emscripten              |        Planned        |
 
-| Platform  | Backend       | Supported             |
-|:---------:|:-------------:|:---------------------:|
-| Windows   | Direct 3D 9   |        Planned        |
-| Windows   | Direct 3D 11  |        Planned        |
-| Windows   | OpenGL 2.1+   |        Planned        |
-| Windows   | OpenGL 3.1+   |        Planned        |
-| Windows   | Mantle        |        Planned        |
-|           |               |                       |
-| Mac OS X  | OpenGL 2.1+   |        Planned        |
-| Mac OS X  | OpenGL 3.1+   |        Planned        |
-| Mac OS X  | Mantle        |       Hopefully       |
-|           |               |                       |
-| Linux     | OpenGL 2.1+   |        Planned        |
-| Linux     | OpenGL 3.1+   |        Planned        |
-| Linux     | Mantle        |       Hopefully       |
-|           |               |                       |
-| Android   | OpenGL ES 1.0 |         Never         |
-| Android   | OpenGL ES 2.0 |        Planned        |
-| Android   | OpenGL ES 3.0 |        Planned        |
-|           |               |                       |
-| iOS       | OpenGL ES 1.0 |         Never         |
-| iOS       | OpenGL ES 2.0 |        Planned        |
-| iOS       | OpenGL ES 3.0 |        Planned        |
-|           |               |                       |
-| NaCl      | OpenGL ES 2.0 |        Planned        |
-| NaCl      | OpenGL ES 3.0 |        Planned        |
+| Platform      | Backend       | Supported             |
+|:-------------:|:-------------:|:---------------------:|
+| Windows       | Direct 3D 9   |        Planned        |
+| Windows       | Direct 3D 11  |        Planned        |
+| Windows       | OpenGL 2.1+   |        Planned        |
+| Windows       | OpenGL 3.1+   |        Planned        |
+| Windows       | Mantle        |        Planned        |
+|               |               |                       |
+| Mac OS X      | OpenGL 2.1+   |        Planned        |
+| Mac OS X      | OpenGL 3.1+   |        Planned        |
+| Mac OS X      | Mantle        |       Hopefully       |
+|               |               |                       |
+| Linux         | OpenGL 2.1+   |        Planned        |
+| Linux         | OpenGL 3.1+   |        Planned        |
+| Linux         | Mantle        |       Hopefully       |
+|               |               |                       |
+| Android       | OpenGL ES 1.0 |         Never         |
+| Android       | OpenGL ES 2.0 |        Planned        |
+| Android       | OpenGL ES 3.0 |        Planned        |
+|               |               |                       |
+| iOS           | OpenGL ES 1.0 |         Never         |
+| iOS           | OpenGL ES 2.0 |        Planned        |
+| iOS           | OpenGL ES 3.0 |        Planned        |
+|               |               |                       |
+| Native Client | OpenGL ES 2.0 |        Planned        |
+| Native Client | OpenGL ES 3.0 |        Planned        |
+|               |               |                       |
+| emscripten    | WebGL         |        Planned        |
+| emscripten    | WebGL 2       |       Hopefully       |
 
 ## Building
 
