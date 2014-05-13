@@ -19,32 +19,32 @@ An embeddable hardware accelerated vector graphics library.
 | Web       | Native Client (PNaCl)   |        Planned        |
 | Web       | emscripten              |        Planned        |
 
-| Platform  | Backend                 | Supported             |
-|:---------:|:-----------------------:|:---------------------:|
-| Windows   | `AGL_BACKEND_D3D9`      |        Planned        |
-| Windows   | `AGL_BACKEND_D3D11`     |        Planned        |
-| Windows   | `AGL_BACKEND_GL21`      |        Planned        |
-| Windows   | `AGL_BACKEND_GL31`      |        Planned        |
-| Windows   | `AGL_BACKEND_MANTLE`    |        Planned        |
-|           |                         |                       |
-| Mac OS X  | `AGL_BACKEND_GL21`      |        Planned        |
-| Mac OS X  | `AGL_BACKEND_GL31`      |        Planned        |
-| Mac OS X  | `AGL_BACKEND_MANTLE`    |       Hopefully       |
-|           |                         |                       |
-| Linux     | `AGL_BACKEND_GL21`      |        Planned        |
-| Linux     | `AGL_BACKEND_GL31`      |        Planned        |
-| Linux     | `AGL_BACKEND_MANTLE`    |       Hopefully       |
-|           |                         |                       |
-| Android   | `AGL_BACKEND_GLES`      |         Never         |
-| Android   | `AGL_BACKEND_GLES2`     |        Planned        |
-| Android   | `AGL_BACKEND_GLES3`     |        Planned        |
-|           |                         |                       |
-| iOS       | `AGL_BACKEND_GLES`      |         Never         |
-| iOS       | `AGL_BACKEND_GLES2`     |        Planned        |
-| iOS       | `AGL_BACKEND_GLES3`     |        Planned        |
-|           |                         |                       |
-| NaCl      | `AGL_BACKEND_GLES2`     |        Planned        |
-| NaCl      | `AGL_BACKEND_GLES3`     |        Planned        |
+| Platform  | Backend       | Supported             |
+|:---------:|:-------------:|:---------------------:|
+| Windows   | Direct 3D 9   |        Planned        |
+| Windows   | Direct 3D 11  |        Planned        |
+| Windows   | OpenGL 2.1+   |        Planned        |
+| Windows   | OpenGL 3.1+   |        Planned        |
+| Windows   | Mantle        |        Planned        |
+|           |               |                       |
+| Mac OS X  | OpenGL 2.1+   |        Planned        |
+| Mac OS X  | OpenGL 3.1+   |        Planned        |
+| Mac OS X  | Mantle        |       Hopefully       |
+|           |               |                       |
+| Linux     | OpenGL 2.1+   |        Planned        |
+| Linux     | OpenGL 3.1+   |        Planned        |
+| Linux     | Mantle        |       Hopefully       |
+|           |               |                       |
+| Android   | OpenGL ES 1.0 |         Never         |
+| Android   | OpenGL ES 2.0 |        Planned        |
+| Android   | OpenGL ES 3.0 |        Planned        |
+|           |               |                       |
+| iOS       | OpenGL ES 1.0 |         Never         |
+| iOS       | OpenGL ES 2.0 |        Planned        |
+| iOS       | OpenGL ES 3.0 |        Planned        |
+|           |               |                       |
+| NaCl      | OpenGL ES 2.0 |        Planned        |
+| NaCl      | OpenGL ES 3.0 |        Planned        |
 
 ## Building
 
